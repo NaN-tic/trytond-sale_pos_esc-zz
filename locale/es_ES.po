@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:sale_pos.device:"
+msgid "Device %s not found...!"
+msgstr "No se ha encontrado el dispositivo %s."
+
+msgctxt "field:sale_pos.device,display_baud:"
+msgid "BAUD-Rate"
+msgstr "Velocidad (BAUD)"
+
+msgctxt "field:sale_pos.device,display_digits:"
+msgid "Digits per Row"
+msgstr "Dígitos por fila"
+
+msgctxt "field:sale_pos.device,display_port:"
+msgid "Display port"
+msgstr "Puerto del display"
+
+msgctxt "field:sale_pos.device,name:"
+msgid "Device Name"
+msgstr "Nombre dispositivo"
+
+msgctxt "field:sale_pos.device,printer_port:"
+msgid "Printer Port"
+msgstr "Puerto de la impresora"
+
+msgctxt "help:sale_pos.device,display_port:"
+msgid "Like /dev/ttyS0"
+msgstr "Por ejemplo /dev/ttyS0"
+
+msgctxt "help:sale_pos.device,printer_port:"
+msgid "Port type the receipt printer is conntected to."
+msgstr "Tipo de puerto al que está conectada la impresora de tickets."
+
