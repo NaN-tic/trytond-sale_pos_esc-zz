@@ -7,7 +7,7 @@
 '''
 
 import usb
-import Image
+from PIL import Image
 import time
 from constants import *
 from exceptions import *
